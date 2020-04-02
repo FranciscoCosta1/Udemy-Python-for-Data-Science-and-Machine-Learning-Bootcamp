@@ -17,6 +17,6 @@ Topics aborded:
     * Decision Trees and Random Forests;
     * Support Vector Machines;
     * K-Means.
-  * Other tools: PCA, Recommender systems
+  * Other tools: PCA, Recommender systems;
   * Natural Language Processing (NLP);
   * Deep learning.
