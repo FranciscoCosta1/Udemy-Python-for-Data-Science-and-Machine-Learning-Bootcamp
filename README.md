@@ -1,6 +1,7 @@
 # Udemy: Python for Data Science and Machine Learning Bootcamp
 
 Ensemble of techniques used in Data Science.
+Programming Language: **Python**
 
 This repository contains useful tools to the day-to-day job of a data scientist.
 Topics aborded:
