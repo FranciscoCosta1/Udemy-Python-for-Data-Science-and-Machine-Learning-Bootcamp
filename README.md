@@ -20,4 +20,4 @@ Topics aborded:
     * K-Means.
   * Other tools: PCA, Recommender systems;
   * Natural Language Processing (NLP);
-  * Deep learning.
+  * Deep learning (Neural Networks).
